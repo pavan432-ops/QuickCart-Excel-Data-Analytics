@@ -18,6 +18,12 @@ The objective was not simply to create a dashboard. The project focused on under
 
 ---
 
+## 📊 Dashboard Preview
+
+![QuickCart Sales & Operations Dashboard](QuickCart_Dashboard.png)
+
+---
+
 ## 🏢 2. Business Scenario
 
 QuickCart operates as a fictional e-commerce / quick-commerce business with customers, products, stores, orders, deliveries, inventory and returns.
